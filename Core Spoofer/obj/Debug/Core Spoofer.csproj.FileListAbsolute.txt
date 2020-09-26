@@ -1,0 +1,6 @@
+D:\get rekt\corebruh\Core Spoofer\bin\Debug\Core Spoofer.exe
+D:\get rekt\corebruh\Core Spoofer\bin\Debug\Core Spoofer.pdb
+D:\get rekt\corebruh\Core Spoofer\obj\Debug\Core Spoofer.csprojAssemblyReference.cache
+D:\get rekt\corebruh\Core Spoofer\obj\Debug\Core Spoofer.csproj.CoreCompileInputs.cache
+D:\get rekt\corebruh\Core Spoofer\obj\Debug\Core Spoofer.exe
+D:\get rekt\corebruh\Core Spoofer\obj\Debug\Core Spoofer.pdb
